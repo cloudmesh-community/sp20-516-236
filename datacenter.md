@@ -22,7 +22,25 @@
 
 ##This gas which constitutes 76% of the greenhouse gases in our atmosphere is a major contributor to the greenhouse effect and has a lifecycle of ~100 years. For datacenters, the carbon footprint life cycle includes, the amount of CO2 emitted during the manufacturing process of all the components in a datacenter (Servers, UPS, building shell, cooling etc. which is called the embedded carbon), the operation of the datacenter (electricity consumed), maintenance of datacenters (replacement of batteries, capacitors etc.), and disposal of the datacenter components at the end of the life cycle.
 
+
+
+
+
 ##E.Datacenter.2: The carbon footprint of data centers
 
 ##In terms of the lifecycle perspective, the carbon footprint of a datacenter include multiple phases.The carbon footprint life cycle includes, the amount of CO2 emitted during the manufacturing process of all the components in a datacenter (Servers, UPS, building shell, cooling etc. which is called the embedded carbon), the operation of the datacenter (electricity consumed during the operation), maintenance of datacenters (replacement of batteries, capacitors etc.), and disposal of the datacenter components at the end of the life cycle.
  
+ 
+ 
+ 
+ ##E.Datacenter.4: 
+ 
+##The renewable energy that I took is solar.
+Solar energy is from the sun that is converted into thermal or electrical energy.  It is the cleanest and most abundant renewable energy source available. In this energy photovoltaic cells are usually used to capture sun’s rays and convert them into power.  Some of the datacenters that use solar energy are 
+•	Emerson Network Power (Missouri)
+•	AISO.net (California)
+•	i/o Data Centers (Arizona)
+•	Sonoma Mountain Data Center (California)
+•	Intel (New Mexico)
+•	WorldBackups.net (United Kingdom)
+
