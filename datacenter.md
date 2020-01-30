@@ -37,10 +37,16 @@
  
 ##The renewable energy that I took is solar.
 Solar energy is from the sun that is converted into thermal or electrical energy.  It is the cleanest and most abundant renewable energy source available. In this energy photovoltaic cells are usually used to capture sun’s rays and convert them into power.  Some of the datacenters that use solar energy are 
+
 •	Emerson Network Power (Missouri)
+
 •	AISO.net (California)
+
 •	i/o Data Centers (Arizona)
+
 •	Sonoma Mountain Data Center (California)
+
 •	Intel (New Mexico)
+
 •	WorldBackups.net (United Kingdom)
 
