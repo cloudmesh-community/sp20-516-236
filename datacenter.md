@@ -50,3 +50,16 @@ Solar energy is from the sun that is converted into thermal or electrical energy
 
 •	WorldBackups.net (United Kingdom)
 
+
+##E.Datacenter.6:
+
+##Immersion cooling is a server cooling solution that is particularly used in green data centers. In this the computer components including the servers are submerged in a thermally conductive dielectric coolant. IT components cooled in this manner do not require fans or a heat exchanger. Since the fluid must be non-conductive, there are only four families of fluids that can be used
+(1) Deionized water (2) Mineral oil (3) Fluorocarbon-based fluids and (4) Synthetic
+In this type of cooling, evaporation can pose a problem. Therefore, the liquid is regularly refilled or sealed inside the enclosure.
+
+<https://submer.com/blog/what-is-immersion-cooling>
+
+Rear door heat exchangers (RDHx) are another type that are used for dense server environments where racks use 20 kWh or more of power. A typical system use radiator-like doors attached to the back of racks with coils or plates for direct heat exchange using chilled water or coolant.
+
+<https://www.datacenterknowledge.com/archives/2017/05/22/rdhx-systems-help-with-high-density-data-center-cooling>
+
