@@ -20,3 +20,8 @@ the last activities first (e.g. in reverse cronological order by week)
 * :05: Created notebook.md on Github
 
 # Week Fri 01/24/20 - 01/30/20
+* :01: Attended lecture on 28th
+* :02: Installed Multipass on windows 10 EDU
+* :03: Read Python 
+* :04: submitted datacenter assignment
+  
