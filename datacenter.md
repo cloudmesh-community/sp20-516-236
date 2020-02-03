@@ -1,4 +1,6 @@
-#sp20-516-236
+# Datacenter sp20-516-236
+
+:o2: attending markdown session mandatory
 
 ##E.Datacenter.1: Carbon footprint of a data center
 
