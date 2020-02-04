@@ -24,7 +24,7 @@ When the electrical consumption of datacenters are reduced, the demand for power
 
 This gas which constitutes 76% of the greenhouse gases in our atmosphere is a major contributor to the greenhouse effect and has a lifecycle of ~100 years. For datacenters, the carbon footprint life cycle includes, the amount of CO2 emitted during the manufacturing process of all the components in a datacenter (Servers, UPS, building shell, cooling etc. which is called the embedded carbon), the operation of the datacenter (electricity consumed), maintenance of datacenters (replacement of batteries, capacitors etc.), and disposal of the datacenter components at the end of the life cycle.
 
-## _____________________________________________________________________________________________________________________________________
+## __________________________________________________________________
 
 
 ## E.Datacenter.2: The carbon footprint of data centers
@@ -49,7 +49,7 @@ The carbon footprint was calculated using the calculator. The power consumption 
 <https://www.datacenterknowledge.com/special-report-the-worlds-largest-data-centers/largest-data-centers-io-data-centers-microsoft>
 
 
-## _____________________________________________________________________________________________________________________________________
+## ______________________________________________________________
 
 
 ## E. Datacenter.3
@@ -57,7 +57,7 @@ The carbon footprint was calculated using the calculator. The power consumption 
 My carbon footprint is 11464.
 
 
-## _____________________________________________________________________________________________________________________________________
+## _____________________________________________________________
 
 
  ## E.Datacenter.4 
@@ -78,7 +78,7 @@ Solar energy is from the sun that is converted into thermal or electrical energy
 •	WorldBackups.net (United Kingdom)
 
 
-## _____________________________________________________________________________________________________________________________________
+## ____________________________________________________________
 
 
 ## E.Datacenter.5
@@ -88,7 +88,7 @@ Germany has the distinction of the world’s first major renewable energy econom
 <https://en.wikipedia.org/wiki/Renewable_energy_in_Germany>
 
 
-## _____________________________________________________________________________________________________________________________________
+## _________________________________________________________
 
 
 ## E.Datacenter.6
@@ -104,7 +104,7 @@ Rear door heat exchangers (RDHx) are another type that are used for dense server
 <https://www.datacenterknowledge.com/archives/2017/05/22/rdhx-systems-help-with-high-density-data-center-cooling>
 
 
-## _____________________________________________________________________________________________________________________________________
+## ___________________________________________________________
 
 
 ## E.Datacenter.7
@@ -118,7 +118,7 @@ There is data that U.S. data centers consumed 70 billion Kwh of electricity in 2
 <https://www.datacenterknowledge.com/industry-perspectives/setting-realistic-goals-powering-data-centers-renewable-energy>
 
 
-## _____________________________________________________________________________________________________________________________________
+## _____________________________________________________
 
 
 ## E.Datacenter.8
