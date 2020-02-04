@@ -2,15 +2,15 @@
 
 :o2: attending markdown session mandatory
 
-##E.Datacenter.1: Carbon footprint of a data center
+## E.Datacenter.1: Carbon footprint of a data center
 
-##Definition of Key terms 
+## Definition of Key terms 
 
-##It is really important to understand the terms used to describe the carbon footprint measurement outputs, when determining the true environmental impact of data centers. Some of the key terms used during discussions regarding the environmental effect of data centers are (1) Carbon dioxide emission coefficient (“Carbon footprint”), (2) Peaker Plant, (3) Avoided emissions and (4) Carbon Dioxide (CO2 or “Carbon”)
+It is really important to understand the terms used to describe the carbon footprint measurement outputs, when determining the true environmental impact of data centers. Some of the key terms used during discussions regarding the environmental effect of data centers are (1) Carbon dioxide emission coefficient (“Carbon footprint”), (2) Peaker Plant, (3) Avoided emissions and (4) Carbon Dioxide (CO2 or “Carbon”)
 
-##Carbon dioxide emission coefficient (“Carbon footprint”):
+## Carbon dioxide emission coefficient (“Carbon footprint”):
 
-##This is measurement of the amount of green house gas including carbon dioxide(CO2) which are released to the environment due to activities such as driving a car/vehicle, maintaining temperature at home by heating/cooling or running a plant etc. In the case of a datacenter, the total amount of electricity that a particular datacenter consumes is calculated to be the carbon footprint of that datacenter. The carbon emission equivalent of the total amount of electricity consumed is defined as the carbon footprint here.
+This is measurement of the amount of green house gas including carbon dioxide(CO2) which are released to the environment due to activities such as driving a car/vehicle, maintaining temperature at home by heating/cooling or running a plant etc. In the case of a datacenter, the total amount of electricity that a particular datacenter consumes is calculated to be the carbon footprint of that datacenter. The carbon emission equivalent of the total amount of electricity consumed is defined as the carbon footprint here.
 
 ##Peaker Plant: 
 
@@ -102,7 +102,7 @@ Rear door heat exchangers (RDHx) are another type that are used for dense server
 <https://www.datacenterknowledge.com/industry-perspectives/setting-realistic-goals-powering-data-centers-renewable-energy>
 
 
-##E.Datacenter 8 :
+##E.Datacenter.8
 
 ##Azure Outage September 2018
 
