@@ -25,3 +25,10 @@ the last activities first (e.g. in reverse cronological order by week)
 * :03: Read Python 
 * :04: submitted datacenter assignment
   
+# Week Fri 01/31/20 - 02/06/20
+* :01: Attended lecture on 3rd
+* :02: Selected AWS polly as my chapter
+* :03: Reviewed python 
+* :04: Worked on the correction for datacenter assignment using markdown
+* :05: started collecting material for the chapter
+  
