@@ -1,11 +1,5 @@
 # Datacenter Seema Achath sp20-516-236
 
-:o2: attending markdown session mandatory
-
-:o2: all “  must be "
-
-:o2: all • must be *
-
 ## E.Datacenter.1: Carbon footprint of a data center
 
 ## Definition of Key terms 
