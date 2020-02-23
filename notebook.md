@@ -3,6 +3,14 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 02/14/20 - 02/20/20
+
+* :01: Attended lecture on 17th and 18th
+* :02: Completed the AWS polly chapter but yet to post
+* :03: Installed git for windows 
+* :04: Reinstalled cloudmesh on Windows EDU
+* :05: worked on Chameleon cloud with Prof Gregor to fix errors
+
 # Week Fri 02/07/20 - 02/13/20
 
 * :01: Attended lecture on 11th
