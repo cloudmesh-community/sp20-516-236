@@ -18,7 +18,7 @@ Peaker plants are the auxiliary power generation plants that utility companies r
 
 When the electrical consumption of datacenters are reduced, the demand for power from utility companies are lower. This reduction in electrical consumption in turn can avoid carbon emission and lead to lower carbon footprint. This is what is known as "avoided emission".  If the reduction in electrical consumption leads to lower usage of Peaker Plants then this avoided emission is enlarged (because peaker plants have larger carbon footprint than regular plants). This “avoided emission” is a  more truthful indicator of carbon benefit than the carbon footprint.
 
-## Carbon Dioxide (CO2 or “Carbon”)
+## Carbon Dioxide (CO2 or "Carbon")
 
 This gas which constitutes 76% of the greenhouse gases in our atmosphere is a major contributor to the greenhouse effect and has a lifecycle of ~100 years. For datacenters, the carbon footprint life cycle includes, the amount of CO2 emitted during the manufacturing process of all the components in a datacenter (Servers, UPS, building shell, cooling etc. which is called the embedded carbon), the operation of the datacenter (electricity consumed), maintenance of datacenters (replacement of batteries, capacitors etc.), and disposal of the datacenter components at the end of the life cycle.
 
