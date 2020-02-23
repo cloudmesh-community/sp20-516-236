@@ -51,7 +51,7 @@ The carbon footprint was calculated using the calculator. The power consumption 
 My carbon footprint is 11464.
 
 
- ## E.Datacenter.4 
+## E. Datacenter.4 
  
 The renewable energy that I took is solar.
 Solar energy is from the sun that is converted into thermal or electrical energy.  It is the cleanest and most abundant renewable energy source available. In this energy photovoltaic cells are usually used to capture sun’s rays and convert them into power.  Some of the datacenters that use solar energy are 
