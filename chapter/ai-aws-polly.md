@@ -12,6 +12,62 @@ This service by AWS is very user friendly and independent. Converting text to an
 
 Amazon Polly offers both female and male lifelike voices in many languages. It also provides multiple options to choose from in certain languages.  In Amazon Polly, you can select the voice of your choice and distribute your voice enabled applications in many countries. Amazon Polly offers high quality natural and human-like voices using Neural Text-to-Speech (NTTS) voices in addition to the Standard TTS voices. AWS supports 21 languages and 29 distinct language-region pairs. Most regions have one or two voices to select from, where as popular ones like United States English have several options.
 
+Different languages and voice options offered by Amazon Polly  {#tbl:sample-table} 
+
+| Language             | Female                | Male                 |
+|----------------------|-----------------------|----------------------|
+| Arabic               | Zeina                 |                      |
+| Australian English   | Nicole                | Russell              |
+| Brazilian Portuguese | Vitória               | Ricardo              |
+|                      | Camila \(Standard\)   |                      |
+|                      | Camila \(Neural\)     |                      |
+| Canadian French      | Chantal               |                      |
+| Danish               | Naja                  | Mads                 |
+| Dutch                | Lotte                 | Ruben                |
+| French               | Léa                   | Mathieu              |
+|                      | Céline                |                      |
+| German               | Vicki                 | Hans                 |
+|                      | Marlene               |                      |
+| Hindi                | Aditi                 |                      |
+| Icelandic            | Dóra                  | Karl                 |
+| Indian English       | Raveena               |                      |
+|                      | Aditi                 |                      |
+| Italian              | Carla                 | Giorgio              |
+|                      | Bianca                |                      |
+| Japanese             | Mizuki                | Takumi               |
+| Korean               | Seoyeon               |                      |
+| Mandarin Chinese     | Zhiyu                 |                      |
+| Norwegian            | Liv                   |                      |
+| Polish               | Ewa                   | Jacek                |
+|                      | Maja                  | Jan                  |
+| Portuguese \- Iberic | Inês                  | Cristiano            |
+| Romanian             | Carmen                |                      |
+| Russian              | Tatyana               | Maxim                |
+| Spanish \- Castilian | Conchita              | Enrique              |
+|                      | Lucia                 |                      |
+| Spanish \- Mexican   | Mia                   |                      |
+| Swedish              | Astrid                |                      |
+| Turkish              | Filiz                 |                      |
+| UK English           | Amy \(Standard\)      | Brian \(Standard\)   |
+|                      | Amy \(Neural\)        | Brian \(Neural\)     |
+|                      | Emma \(Standard\)     |                      |
+|                      | Emma \(Neural\)       |                      |
+| US English           | Joanna \(Standard\)   | Matthew \(Standard\) |
+|                      | Joanna \(Neural\)     | Matthew \(Neural\)   |
+|                      | Salli \(Standard\)    | Justin \(Standard\)  |
+|                      | Salli \(Neural\)      | Justin \(Neural\)    |
+|                      | Kendra \(Standard\)   | Joey \(Standard\)    |
+|                      | Kendra \(Neural\)     | Joey \(Neural\)      |
+|                      | Kimberly \(Standard\) |                      |
+|                      | Kimberly \(Neural\)   |                      |
+|                      | Ivy \(Standard\)      |                      |
+|                      | Ivy \(Neural\)        |                      |
+| US Spanish           | Penélope              | Miguel               |
+|                      | Lupe \(Standard\)     |                      |
+|                      | Lupe \(Neural\)       |                      |
+| Welsh                | Gwyneth               |                      |
+| Welsh English        |                       | Geraint              |
+
 ## Speech Marks
 
 Speech marks or inverted commas are used to complement the synthesized speech that is generated from the input text.  These are designed to show what the words actually spoken by a person or character are.  The words spoken directly are marked by speech marks.  Polly uses the synthesized speech audio stream together with metadata, to provide enhanced visual experience such as speech-synchronized animation or karaoke-style highlighting for customers to use in their applications. For this speech marks, as many as four types of metada can be requested in Amazon Polly.
@@ -44,6 +100,9 @@ Getting started with AWS is simple. Once an account in AWS is created, simply na
 <https://us-east-1.console.aws.amazon.com/polly/home/SynthesizeSpeech>
 
 This console can be used to transform the text to generate an audio file which can then be used or stored.
+
+![](sp20-516-236/chapter/Polly get started.pdf)
+
  
 A detailed description of the regions in which the service is available is provide in the AWS Global Infrastructure Region Table. 
 
