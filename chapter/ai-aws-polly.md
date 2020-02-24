@@ -12,7 +12,7 @@ This service by AWS is very user friendly and independent. Converting text to an
 
 Amazon Polly offers both female and male lifelike voices in many languages. It also provides multiple options to choose from in certain languages.  In Amazon Polly, you can select the voice of your choice and distribute your voice enabled applications in many countries. Amazon Polly offers high quality natural and human-like voices using Neural Text-to-Speech (NTTS) voices in addition to the Standard TTS voices. AWS supports 21 languages and 29 distinct language-region pairs. Most regions have one or two voices to select from, where as popular ones like United States English have several options.
 
-Different languages and voice options offered by Amazon Polly  {#tbl:sample-table} 
+Different languages and voice options offered by Amazon Polly   
 
 | Language             | Female                | Male                 |
 |----------------------|-----------------------|----------------------|
@@ -101,7 +101,7 @@ Getting started with AWS is simple. Once an account in AWS is created, simply na
 
 This console can be used to transform the text to generate an audio file which can then be used or stored.
 
- ![Fig. Image of the opening page of the Amazon polly console] (https://github.com/cloudmesh-community/sp20-516-236/blob/master/chapter/images/Polly getstarted.png)
+ ![Fig. Image of the opening page of the Amazon polly console] (sp20-516-236/chapter/images/Pollygetstarted.png)
 
  
 A detailed description of the regions in which the service is available is provide in the AWS Global Infrastructure Region Table. 
