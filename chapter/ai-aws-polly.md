@@ -101,8 +101,12 @@ Getting started with AWS is simple. Once an account in AWS is created, simply na
 
 This console can be used to transform the text to generate an audio file which can then be used or stored.
 
-![Fig. Image of the opening page of the Amazon polly console] (images/Pollygetstarted.png)
- 
+@fig:sp20-516-236-Pollygetstarted
+
+
+
+{@fig:sp20-516-236-Pollygetstarted}
+
 A detailed description of the regions in which the service is available is provide in the AWS Global Infrastructure Region Table. 
 
 <https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/>
