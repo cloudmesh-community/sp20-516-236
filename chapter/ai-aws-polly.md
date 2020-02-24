@@ -101,7 +101,7 @@ Getting started with AWS is simple. Once an account in AWS is created, simply na
 
 This console can be used to transform the text to generate an audio file which can then be used or stored.
 
-@fig:sp20-516-236-Pollygetstarted The Text-to-Speech console of Amazon Polly
+@fig:sp20-516-236-Pollygetstarted shows the Text-to-Speech console of Amazon Polly
 ![Figure example](images/Pollygetstarted.png)
 {#fig:sp20-516-236-Pollygetstarted}
 
