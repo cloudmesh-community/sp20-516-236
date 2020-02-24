@@ -1,6 +1,6 @@
 # AWS Polly sp20-516-236, Achath, Seema
 
-as explained "word" requires a bibtes, however if you like to empasze a word you MUST use *word*
+:o2: as explained "word" requires a bibtes, however if you like to empasze a word you MUST use *word* for example this is wrong "P!nk"
 
 ## Introduction to Amazon Polly
 
