@@ -4,6 +4,7 @@
 
 :o2:  figure caotion does not contain the citation. We posted an example, please see example
 
+:o2: bibtex missing
 
 ## Introduction to Amazon Polly
 
