@@ -1,5 +1,9 @@
 # Datacenter Seema Achath sp20-516-236
 
+:o2: bibtex missing
+
+:o2: italic is *italic* ont _italic_
+
 ## E.Datacenter.1: Carbon footprint of a data center
 
 ## Definition of Key terms 
