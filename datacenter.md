@@ -34,20 +34,14 @@ In terms of the lifecycle perspective, the carbon footprint of a datacenter incl
   
 ## E.Datacenter.2a
 
-Filled the Carbon footprint table given in the link
+Filled the Carbon footprint table given in the link [@noauthor_data_nodate-sp20-516-236]
 
 
 ## E.Datacenter.2b
 
-ONE- Phoenix, AZ facility is inaugurated in 2014. This 31 acre Iron Mountain Phoenix facility is 538,000 square foot is size and is also their main headquarters and made at an investment of $70 million dollars. The power consumed at this facility is 8000 kW. When the facility was inaugurated it was the largest commercially-available data center in the United States. There were more than 200 workers involved in the build out of the Phoenix ONE facility – everyone from electricians to steelworkers. The highlight of this facility is its main innovation which is its rooftop solar panels which can supply up to 4.5 megawatts of energy for the data center and a thermal storage system that will allow i/o Data Centers to run chillers for its cooling systems at night when power rates are lower.  The building's energy efficiency features include low-power LED lighting on the data center floor, ultrasonic humidifiers for climate control, highly efficiency computer room air handlers (CRAHs) using plug fans,  high-efficiency chillers, and perimeter flooring made from recycled car tires. The availability of solar energy has made Arizona a hot spot for data centers.
+ONE- Phoenix, AZ facility is inaugurated in 2014. This 31 acre Iron Mountain Phoenix facility is 538,000 square foot is size and is also their main headquarters and made at an investment of $70 million dollars [@noauthor_io_nodate-sp20-516-236]. The power consumed at this facility is 8000 kW. When the facility was inaugurated it was the largest commercially-available data center in the United States [@noauthor_largest_nodate-sp20-516-236]. There were more than 200 workers involved in the build out of the Phoenix ONE facility – everyone from electricians to steelworkers. The highlight of this facility is its main innovation which is its rooftop solar panels which can supply up to 4.5 megawatts of energy for the data center and a thermal storage system that will allow i/o Data Centers to run chillers for its cooling systems at night when power rates are lower.  The building's energy efficiency features include low-power LED lighting on the data center floor, ultrasonic humidifiers for climate control, highly efficiency computer room air handlers (CRAHs) using plug fans,  high-efficiency chillers, and perimeter flooring made from recycled car tires. The availability of solar energy has made Arizona a hot spot for data centers.
 
-The carbon footprint was calculated using the calculator. The power consumption was 8000kW and the average $/kW used was based on the phoenix utility companies website.
-
-<https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/>
-
-<https://www.io.com/press-releases/io-data-centers-opens-its-phoenix-one-data-center/>
-
-<https://www.datacenterknowledge.com/special-report-the-worlds-largest-data-centers/largest-data-centers-io-data-centers-microsoft>
+The carbon footprint was calculated using the calculator. The power consumption was 8000kW and the average $/kW used was based on the phoenix utility companies website [@noauthor_data_nodate-sp20-516-236].
 
 
 ## E. Datacenter.3
