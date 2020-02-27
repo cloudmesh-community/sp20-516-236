@@ -8,21 +8,21 @@
 
 ## Definition of Key terms 
 
-It is really important to understand the terms used to describe the carbon footprint measurement outputs, when determining the true environmental impact of data centers. Some of the key terms used during discussions regarding the environmental effect of data centers are (1) Carbon dioxide emission coefficient (_Carbon footprint_), (2) Peaker Plant, (3) Avoided emissions and (4) Carbon Dioxide (CO2 or _Carbon_)
+It is really important to understand the terms used to describe the carbon footprint measurement outputs, when determining the true environmental impact of data centers. Some of the key terms used during discussions regarding the environmental effect of data centers are (1) Carbon dioxide emission coefficient (*Carbon footprint*), (2) Peaker Plant, (3) Avoided emissions and (4) Carbon Dioxide (CO2 or *Carbon*)
 
-## Carbon dioxide emission coefficient (_Carbon footprint_)
+## Carbon dioxide emission coefficient (*Carbon footprint*)
 
 This is measurement of the amount of green house gas including carbon dioxide(CO2) which are released to the environment due to activities such as driving a car/vehicle, maintaining temperature at home by heating/cooling or running a plant etc. In the case of a datacenter, the total amount of electricity that a particular datacenter consumes is calculated to be the carbon footprint of that datacenter. The carbon emission equivalent of the total amount of electricity consumed is defined as the carbon footprint here.
 
 ## Peaker Plant 
 
-Peaker plants are the auxiliary power generation plants that utility companies run during peak electricity demand. These plants are coal-fired and can generate a lot of carbon dioxide. These plants which are older and less efficient, operate depending upon the region’s electricity grid and the demand. So higher the number of these peaker plants in the geographical region of datacenter and depending on how often and how long they are used, they can affect the _avoided emission_ and also increase the carbon footprint of datacenters.  This is because, these plants are older and less efficient and can contribute to higher carbon foot print than the regular utility plants.
+Peaker plants are the auxiliary power generation plants that utility companies run during peak electricity demand. These plants are coal-fired and can generate a lot of carbon dioxide. These plants which are older and less efficient, operate depending upon the region’s electricity grid and the demand. So higher the number of these peaker plants in the geographical region of datacenter and depending on how often and how long they are used, they can affect the *avoided emission* and also increase the carbon footprint of datacenters.  This is because, these plants are older and less efficient and can contribute to higher carbon foot print than the regular utility plants.
 
 ## Avoided Emissions
 
-When the electrical consumption of datacenters are reduced, the demand for power from utility companies are lower. This reduction in electrical consumption in turn can avoid carbon emission and lead to lower carbon footprint. This is what is known as _avoided emission_.  If the reduction in electrical consumption leads to lower usage of Peaker Plants then this avoided emission is enlarged (because peaker plants have larger carbon footprint than regular plants). This _avoided emission_ is a  more truthful indicator of carbon benefit than the carbon footprint.
+When the electrical consumption of datacenters are reduced, the demand for power from utility companies are lower. This reduction in electrical consumption in turn can avoid carbon emission and lead to lower carbon footprint. This is what is known as *avoided emission*.  If the reduction in electrical consumption leads to lower usage of Peaker Plants then this avoided emission is enlarged (because peaker plants have larger carbon footprint than regular plants). This *avoided emission* is a  more truthful indicator of carbon benefit than the carbon footprint.
 
-## Carbon Dioxide (CO2 or _Carbon_)
+## Carbon Dioxide (CO2 or *Carbon*)
 
 This gas which constitutes 76% of the greenhouse gases in our atmosphere is a major contributor to the greenhouse effect and has a lifecycle of ~100 years. For datacenters, the carbon footprint life cycle includes, the amount of CO2 emitted during the manufacturing process of all the components in a datacenter (Servers, UPS, building shell, cooling etc. which is called the embedded carbon), the operation of the datacenter (electricity consumed), maintenance of datacenters (replacement of batteries, capacitors etc.), and disposal of the datacenter components at the end of the life cycle.
 
@@ -70,33 +70,23 @@ Solar energy is from the sun that is converted into thermal or electrical energy
 
 ## E.Datacenter.5
 
-Germany has the distinction of the world’s first major renewable energy economy. In Germany the major sources of these renewable energy are wind, solar and biomass. As of 2016, Germany had the 3rd largest photovoltaic installed capacity (40GW). It also occupies the third and second place in wind power capacity and offshore wind respectively. The share of electricity from renewable energy sources in Germany has reached 36.2% as of 2017. The government is also working on the commercialization of renewable energy particularly offshore wind farms. The Energiewende, Germany's energy transition, defines an important change in energy policy from 2011.Germany has a 2030 renewable energy target of ≥50% of the gross electricity consumption which will increase to more than 80% by 2050. Germany's renewable energy sector is among the most innovative and successful worldwide. Some of the wind-power companies based in Germany are Enercon, Nordex, REpower Systems, Siemens, and Fuhrländer.
-
-<https://en.wikipedia.org/wiki/Renewable_energy_in_Germany>
+Germany has the distinction of the world’s first major renewable energy economy. In Germany the major sources of these renewable energy are wind, solar and biomass [@noauthor_renewable_2020-sp20-516-236]. As of 2016, Germany had the 3rd largest photovoltaic installed capacity (40GW). It also occupies the third and second place in wind power capacity and offshore wind respectively. The share of electricity from renewable energy sources in Germany has reached 36.2% as of 2017 [@noauthor_renewable_2020-sp20-516-236]. The government is also working on the commercialization of renewable energy particularly offshore wind farms. The Energiewende, Germany's energy transition, defines an important change in energy policy from 2011.Germany has a 2030 renewable energy target of ≥50% of the gross electricity consumption which will increase to more than 80% by 2050. Germany's renewable energy sector is among the most innovative and successful worldwide. Some of the wind-power companies based in Germany are Enercon, Nordex, REpower Systems, Siemens, and Fuhrländer.
 
 
 ## E.Datacenter.6
 
-Immersion cooling is a server cooling solution that is particularly used in green data centers. In this the computer components including the servers are submerged in a thermally conductive dielectric coolant. IT components cooled in this manner do not require fans or a heat exchanger. Since the fluid must be non-conductive, there are only four families of fluids that can be used
+Immersion cooling is a server cooling solution that is particularly used in green data centers[@noauthor_what_nodate-sp20-516-236]. In this the computer components including the servers are submerged in a thermally conductive dielectric coolant. IT components cooled in this manner do not require fans or a heat exchanger. Since the fluid must be non-conductive, there are only four families of fluids that can be used
 (1) Deionized water (2) Mineral oil (3) Fluorocarbon-based fluids and (4) Synthetic
 In this type of cooling, evaporation can pose a problem. Therefore, the liquid is regularly refilled or sealed inside the enclosure.
 
-<https://submer.com/blog/what-is-immersion-cooling>
 
-Rear door heat exchangers (RDHx) are another type that are used for dense server environments where racks use 20 kWh or more of power. A typical system use radiator-like doors attached to the back of racks with coils or plates for direct heat exchange using chilled water or coolant.
+Rear door heat exchangers (RDHx) are another type that are used for dense server environments where racks use 20 kWh or more of power [@noauthor_it_2017-sp20-516-236]. A typical system use radiator-like doors attached to the back of racks with coils or plates for direct heat exchange using chilled water or coolant.
 
-<https://www.datacenterknowledge.com/archives/2017/05/22/rdhx-systems-help-with-high-density-data-center-cooling>
 
 
 ## E.Datacenter.7
 
-There is data that U.S. data centers consumed 70 billion Kwh of electricity in 2014, equivalent to the electricity that 6.4 million American homes used. People don't realize Netflix streaming, face book like mobile applications and other services we routinely use now a days use datacenters and cloud services. With the rise of technologies like 5G networks, robotics, AI, cryptocurrencies etc. the demand for datacenters are going to rise and so does their carbon footprint. Around 3 million data centers operate in U.S. which is roughly one for every 100 Americans. Big corporations despite their pledges to shift to 100% clean energy, only 12% of Amazon's Loudoun County data centers and 4% of Google's are powered by renewable energy according to Greenpeace. China's data center industry is the world's second-largest, comprising 8% of the global market. China accounts for half of global coal consumption and thier clean energy industry is still developing. China's data centers emitted 99 million tons of carbon dioxide in 2018 and unless industry addresses its energy consumption, will emit two-thirds more by 2023 according to Greenpeace and North China Electric Power University. Everyone can contribute to the carbon footprint reduction of datacenters. The consumers can make some adjustment to their consumption for example by streaming YouTube videos on medium quality rather than high-definition which could save over 75% of carbon and water used. Whereas utility companies and governments can take the lead on converting to renewable energy and better supply chain and infrastructure. Google’s latest datacenter is going to be built with solar energy and there are other datacenters powered by solar as well. In 2019, a global survey was conducted on Vertiv’s behalf, to predict the percent of data center power that would come from wind and solar in the year 2025. The response from 600 datacenter professional was 13 percent of data center power would come from solar and eight percent from wind which is every five kilowatt-hours coming from the two renewable sources.
-
-<https://fortune.com/2019/09/18/internet-cloud-server-data-center-energy-consumption-renewable-coal/>
-
-<https://www.zdnet.com/article/google-1-6-million-solar-panels-will-power-these-new-data-centres/>
-
-<https://www.datacenterknowledge.com/industry-perspectives/setting-realistic-goals-powering-data-centers-renewable-energy>
+There is data that U.S. data centers consumed 70 billion Kwh of electricity in 2014, equivalent to the electricity that 6.4 million American homes used. People don't realize Netflix streaming, face book like mobile applications and other services we routinely use now a days use datacenters and cloud services. With the rise of technologies like 5G networks, robotics, AI, cryptocurrencies etc. the demand for datacenters are going to rise and so does their carbon footprint. Around 3 million data centers operate in U.S. which is roughly one for every 100 Americans[@noauthor_internet_nodate-sp20-516-236]. Big corporations despite their pledges to shift to 100% clean energy, only 12% of Amazon's Loudoun County data centers and 4% of Google's are powered by renewable energy according to Greenpeace. China's data center industry is the world's second-largest, comprising 8% of the global market. China accounts for half of global coal consumption and thier clean energy industry is still developing. China's data centers emitted 99 million tons of carbon dioxide in 2018 and unless industry addresses its energy consumption, will emit two-thirds more by 2023 according to Greenpeace and North China Electric Power University. Everyone can contribute to the carbon footprint reduction of datacenters. The consumers can make some adjustment to their consumption for example by streaming YouTube videos on medium quality rather than high-definition which could save over 75% of carbon and water used. Whereas utility companies and governments can take the lead on converting to renewable energy and better supply chain and infrastructure. Google’s latest datacenter is going to be built with solar energy and there are other datacenters powered by solar as well[@ranger_google:_nodate-sp20-516-236]. In 2019, a global survey was conducted on Vertiv’s behalf, to predict the percent of data center power that would come from wind and solar in the year 2025. The response from 600 datacenter professional was 13 percent of data center power would come from solar and eight percent from wind which is every five kilowatt-hours coming from the two renewable sources [@noauthor_setting_2019-sp20-516-236].
 
 
 ## E.Datacenter.8
@@ -108,6 +98,14 @@ On September 4, 2018, Microsoft’s Visual Studio Marketplace (VSTS) (now called
 Due to this outage, Azure resources that Marketplace depends on (largely Compute, Storage and SQL) were down and this also took down the single instance Marketplace service completely for close to 31 hrs. This led to global impact such as for extension consumers: Browsing or searching extensions within VS IDE, VS Code or directly at Marketplace, Extension acquisition Extension update of already acquired extensions and for extension publishers: Extension publish: both new and update to existing extensions. Also general slowdowns, errors in the Dashboard functionality, and inability to access user profiles stored in South Central US. 
 
 This issue was covered by a large number of media outlets including The register, Redmond magazine, Zdnet, Rcp magazine, Geekwire etc.
+
+## References
+
+<https://fortune.com/2019/09/18/internet-cloud-server-data-center-energy-consumption-renewable-coal/>
+
+<https://www.zdnet.com/article/google-1-6-million-solar-panels-will-power-these-new-data-centres/>
+
+<https://www.datacenterknowledge.com/industry-perspectives/setting-realistic-goals-powering-data-centers-renewable-energy>
 
 <https://www.theregister.co.uk/2018/09/17/azure_outage_report/>
 
