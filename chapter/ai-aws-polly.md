@@ -109,7 +109,7 @@ This console can be used to transform the text to generate an audio file which c
 
 @fig:sp20-516-236-Pollygetstarted shows the Text-to-Speech console of Amazon Polly
 ![Figure example](images/Pollygetstarted.png)
-{#fig:sp20-516-236-Pollygetstarted}
+{#fig:Pollygetstarted}
 
 A detailed description of the regions in which the service is available is provide in the AWS Global Infrastructure Region Table. 
 
