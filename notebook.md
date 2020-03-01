@@ -3,6 +3,16 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 02/21/20 - 02/27/20
+
+* :01: Attended  meeting with professor on 24th
+* :02: Posted AWS polly chapter 
+* :03: Re-Installed git and Mongo for windows 
+* :04: worked with cms vm boot and chaeleon account
+* :05: Had project meeting with group members on 26h and 29th
+* :06: Created an Azure account and a container for the project
+* :07: Read Lecture notes
+
 # Week Fri 02/14/20 - 02/20/20
 
 * :01: Attended lecture on 17th and 18th
