@@ -3,6 +3,14 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 02/28/20 - 03/06/20
+
+* :01: Attended  meeting with professor on 2nd
+* :02: Met with storage project team 
+* :03: Followed Azure cloudmesh manual tutorial
+* :04: Upadated yaml file with the credentials
+* :05:Read chapters
+
 # Week Fri 02/21/20 - 02/27/20
 
 * :01: Attended  meeting with professor on 24th
