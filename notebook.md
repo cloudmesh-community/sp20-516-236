@@ -9,7 +9,7 @@ the last activities first (e.g. in reverse cronological order by week)
 * :02: Met with storage project team 
 * :03: Followed Azure cloudmesh manual tutorial
 * :04: Upadated yaml file with the credentials
-* :05:Read chapters
+* :05: Read chapters
 
 # Week Fri 02/21/20 - 02/27/20
 
