@@ -3,6 +3,16 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 03/21/20 - 03/27/20
+
+* :01: Attended project meeting with professor on 23rd
+* :02: Attended project meeting with TA on 26th
+* :03: Met with storage project team on 25th
+* :04: Accessed Azure account through Python program using account name and account key
+* :05: wrote a python program to access .yaml file in cloudmesh successfully
+* :06: created multiple test blobs inside the container in python
+* :07: Wrote "Hello World" in that test file using this python program
+
 # Week Fri 03/14/20 - 03/20/20
 
 * :01: Attended project meeting with TA on 19th 
