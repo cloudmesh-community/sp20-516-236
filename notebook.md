@@ -5,6 +5,12 @@ the last activities first (e.g. in reverse cronological order by week)
 
 # Week Fri 03/21/20 - 03/27/20
 
+* :01: Attended project meeting with professor on 30th
+* :02: Attended project meeting with TA on 1st
+* :03: Refered Azure SDK documentation for storage project
+
+# Week Fri 03/21/20 - 03/27/20
+
 * :01: Attended project meeting with professor on 23rd
 * :02: Attended project meeting with TA on 26th
 * :03: Met with storage project team on 25th
