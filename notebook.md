@@ -3,7 +3,31 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
-# Week Fri 03/21/20 - 03/27/20
+# Week Fri 04/17/20 - 04/24/20
+
+* :01: Met with project team mates shihui and Sara on  19th
+* :02: Modified my functions(def)code and parameters to sync with Storagequeue.py
+* :03: I was able to fix all functions except 'search' in the parallelazureblob
+
+
+# Week Fri 04/10/20 - 04/16/20
+
+* :01: Attended project meeting with professor on 13th
+* :02: Attended project meeting with TA on 15th 
+* :03: Met with project team mates shihui and Sara on  14th
+* :04: Modified Parallelazureblob code based on Parallelaws code
+* :05: Only my Create_di and put functions are working, trying to fix rest of the functions.
+
+
+# Week Fri 04/03/20 - 04/09/20
+
+* :01: Attended project meeting with professor on 6th
+* :02: Attended project meeting with TA on 8th 
+* :03: Enabled Azure with authentication (by itself, not with Cloudmesh)
+* :04: Created a container in Azure account using python program
+* :05: Created a test blob in Azure account using python program
+
+# Week Fri 03/28/20 - 04/02/20
 
 * :01: Attended project meeting with professor on 30th
 * :02: Attended project meeting with TA on 1st
