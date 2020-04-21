@@ -8,7 +8,8 @@ the last activities first (e.g. in reverse cronological order by week)
 * :01: Met with project team mates shihui and Sara on  19th
 * :02: Modified my functions(def)code and parameters to sync with Storagequeue.py
 * :03: I was able to fix all functions except 'search' in the parallelazureblob
-
+* :04: Attended project meeting with professor on 20th
+* :05: Fixed all the errors in provider.py. All the functions are working now.
 
 # Week Fri 04/10/20 - 04/16/20
 
