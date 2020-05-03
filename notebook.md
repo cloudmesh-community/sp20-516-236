@@ -3,6 +3,15 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 04/25/20 - 05/01/20
+
+* :01: Met with TA and project team mates shihui and Sara on  29th
+* :02: Verified that all funtions are working in terminal as well using cms storage command
+* :03: updated teh project progress with TA on 29th
+* :04: Attended project meeting with professor on 27th
+* :05: Verified Azure Manual is uptodate for creating azure account and to update the yaml file
+
+
 # Week Fri 04/17/20 - 04/24/20
 
 * :01: Met with project team mates shihui and Sara on  19th
