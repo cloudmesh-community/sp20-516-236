@@ -3,6 +3,14 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 05/02/20 - 05/09/20
+
+* :01: Met with professor and project team mates shihui and Sara on 6th
+* :02: Verified that all funtions are working in terminal as well using cms storage command
+* :03: Run pytests and collected benchmark details
+* :04: Attended project meeting with professor on 4th
+* :05: Updated the test_results.csv file with benchmark details for azure
+
 # Week Fri 04/25/20 - 05/01/20
 
 * :01: Met with TA and project team mates shihui and Sara on  29th
