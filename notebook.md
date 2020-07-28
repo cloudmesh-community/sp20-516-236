@@ -3,6 +3,54 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week Fri 05/02/20 - 05/09/20
+
+* :01: Met with professor and project team mates shihui and Sara on 6th
+* :02: Verified that all funtions are working in terminal as well using cms storage command
+* :03: Run pytests and collected benchmark details
+* :04: Attended project meeting with professor on 4th
+* :05: Updated the test_results.csv file with benchmark details for azure
+
+# Week Fri 04/25/20 - 05/01/20
+
+* :01: Met with TA and project team mates shihui and Sara on  29th
+* :02: Verified that all funtions are working in terminal as well using cms storage command
+* :03: updated teh project progress with TA on 29th
+* :04: Attended project meeting with professor on 27th
+* :05: Verified Azure Manual is uptodate for creating azure account and to update the yaml file
+
+
+# Week Fri 04/17/20 - 04/24/20
+
+* :01: Met with project team mates shihui and Sara on  19th
+* :02: Modified my functions(def)code and parameters to sync with Storagequeue.py
+* :03: I was able to fix all functions except 'search' in the parallelazureblob
+* :04: Attended project meeting with professor on 20th
+* :05: Fixed all the errors in provider.py. All the functions are working now.
+
+# Week Fri 04/10/20 - 04/16/20
+
+* :01: Attended project meeting with professor on 13th
+* :02: Attended project meeting with TA on 15th 
+* :03: Met with project team mates shihui and Sara on  14th
+* :04: Modified Parallelazureblob code based on Parallelaws code
+* :05: Only my Create_di and put functions are working, trying to fix rest of the functions.
+
+
+# Week Fri 04/03/20 - 04/09/20
+
+* :01: Attended project meeting with professor on 6th
+* :02: Attended project meeting with TA on 8th 
+* :03: Enabled Azure with authentication (by itself, not with Cloudmesh)
+* :04: Created a container in Azure account using python program
+* :05: Created a test blob in Azure account using python program
+
+# Week Fri 03/28/20 - 04/02/20
+
+* :01: Attended project meeting with professor on 30th
+* :02: Attended project meeting with TA on 1st
+* :03: Refered Azure SDK documentation for storage project
+
 # Week Fri 03/21/20 - 03/27/20
 
 * :01: Attended project meeting with professor on 23rd
