@@ -20,7 +20,7 @@ spending only a couple of minutes and a few pennies per blog once the
 text is ready. There are multiple such services offered by various
 companies including Google, Amazon etc. that are widely available for
 all to use. One such service is Amazon Polly offered by Amazon Web
-Services (AWS)[@noauthor_amazon_nodate-sp20-516-236]. AWS is a
+Services (AWS) [@noauthor_amazon_nodate-sp20-516-236]. AWS is a
 subsidiary unit of Amazon which provides cloud computing platforms and
 APIs to individuals, companies, and government organizations, on a
 metered pay-as-you-go basis. Amazon Polly is a services offered by AWS
@@ -28,7 +28,7 @@ that turns text into lifelike speech. It enables adding voice to
 existing applications and also opens up an entirely new avenue for
 speech-enabled products geared towards mobile apps, cars, variety of
 devices and appliances. It offers both female and male lifelike voices
-in many languages[@noauthor_amazon_nodate-sp20-516-236]. There are
+in many languages [@noauthor_amazon_nodate-sp20-516-236]. There are
 multiple options for lifelike voices in multiple languages from which
 to choose. This opens up opportunities to distribute speech-enabled
 applications in many geographies.  In addition to Standard TTS voices,
@@ -43,7 +43,7 @@ match for the delivery style of the speaker to the application.
 ## Text-to-Speech (TTS)
 
 This service by AWS is very user friendly and
-independent[@berry_give_2017-sp20-516-236]. Converting text to an
+independent [@berry_give_2017-sp20-516-236]. Converting text to an
 audio stream using this service is just a few clicks away by sending
 the text that need to be converted to the Amazon Polly API. The API
 returns the audio stream to your application immediately.  This audio
@@ -143,7 +143,7 @@ enhanced visual experience such as speech-synchronized animation or
 karaoke-style highlighting for customers to use in their
 applications. For this speech marks, as many as four types of metada
 can be requested in Amazon
-Polly[@noauthor_amazon_nodate-sp20-516-236].
+Polly [@noauthor_amazon_nodate-sp20-516-236].
 
 *	sentence – Indicates a sentence element in the input text.
 *	word – Indicates a word element in the text.
