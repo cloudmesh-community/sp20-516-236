@@ -1,13 +1,6 @@
-# AWS Polly sp20-516-236, Achath, Seema
+# AWS Polly 
 
-:o2: as explained "word" requires a bibtes, however if you like to
-empasze a word you MUST use *word* for example this is wrong "P!nk" it
-is *P!nk*
-
-:o2: figure caotion does not contain the citation. We posted an
-example, please see example
-
-:o2: bibtex missing
+Seema Achath, sp20-516-236
 
 ## Introduction to Amazon Polly
 
