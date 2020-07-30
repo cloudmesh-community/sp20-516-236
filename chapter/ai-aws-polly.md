@@ -265,7 +265,5 @@ directly.
 ## References
 
 1. <https://www.smashingmagazine.com/2019/08/text-to-speech-aws/>
-
 2. <https://aws.amazon.com/polly/faqs/>
-
 3. <https://aws.amazon.com/blogs/aws/amazon-polly-introduces-neural-text-to-speech-and-newscaster-style/>
