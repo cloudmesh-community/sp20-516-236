@@ -2,8 +2,6 @@
 
 Seema Achath, sp20-516-236
 
-## Introduction to Amazon Polly
-
 Text-to-speech (TTS) can help create more useful and accessible
 content. Even few years back, in order to create voice blogs, there
 was a need for recording equipment and people had to spend hours
